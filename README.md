@@ -74,7 +74,7 @@ You should now be able to access the app at `http://localhost:8501`.
 
 Here is a screenshot of the UI for managing tasks and integrating Google Calendar.
 
-![App Screenshot](screenshots/ui_screenshot.png)
+![App Screenshot](data/UI.png)
 
 ## Key Components:
 
